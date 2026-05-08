@@ -19,10 +19,8 @@ Clone this repository into your Codex skills directory:
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone <release-changelog-skill-repo-url> ~/.codex/skills/release-changelog
+git clone https://github.com/akhenda/release-changelog.git ~/.codex/skills/release-changelog
 ```
-
-Replace `<release-changelog-skill-repo-url>` with the GitHub repository URL after the repo is created and pushed.
 
 If you already have it installed, update it with:
 
